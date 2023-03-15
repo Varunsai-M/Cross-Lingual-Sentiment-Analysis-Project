@@ -8,7 +8,7 @@ We focus mainly on Kannada-English code-mixed dataset taken directly from “Dra
 
 # Architecture
 
-https://user-images.githubusercontent.com/96068461/225290947-3309a9cb-8ecb-48b0-b05e-4e814610e3c9.png
+
 
 # Preprocessing Stages
 
