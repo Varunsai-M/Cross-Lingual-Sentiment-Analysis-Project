@@ -15,16 +15,21 @@ We focus mainly on Kannada-English code-mixed dataset taken directly from “Dra
 ![preprocessing](https://user-images.githubusercontent.com/96068461/225292071-ce00af48-82e9-4566-90f0-cac371c2faf0.png)
 
 # Implementation
+
 Preprocessing of data was done as follows:
+
 ![i1](https://user-images.githubusercontent.com/96068461/225293124-b6db12d8-4644-4eca-834c-799c90399142.png)
 
 Kannada translation Function:
+
 ![i2](https://user-images.githubusercontent.com/96068461/225293389-c8181231-683b-402c-a8a8-67b5cd61b534.png)
 
 Conversion to Kannada text:
+
 ![i3](https://user-images.githubusercontent.com/96068461/225293364-90a30597-03e6-46a9-a965-e461185a5903.png)
 
 This is how the text looks after each stage of Processing:
+
 ![i4](https://user-images.githubusercontent.com/96068461/225293500-8a17a76e-da93-45a0-9735-2a2b9f203a01.png)
 
 BERT Model:
