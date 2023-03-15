@@ -33,12 +33,19 @@ This is how the text looks after each stage of Processing:
 ![i4](https://user-images.githubusercontent.com/96068461/225293500-8a17a76e-da93-45a0-9735-2a2b9f203a01.png)
 
 BERT Model:
+
 ![i5](https://user-images.githubusercontent.com/96068461/225293507-eb1eeaa3-9e67-4568-b926-f9b7d09547f7.png)
 
 Training in the form of epochs:
+
 ![i6](https://user-images.githubusercontent.com/96068461/225293508-da77d68b-4809-46b6-af31-8e8e44c5b77a.png)
 
 # Results
+
+Summary of the results of all models employed are as follows:
+
+![Summary of res](https://user-images.githubusercontent.com/96068461/225303157-4c10f16b-a69c-499b-b323-6573805f4146.png)
+
 The results of the BERT model are as follows:
 
 ![bert res](https://user-images.githubusercontent.com/96068461/225294770-915755f1-d2ba-41ef-b1e9-3b514b3ef634.png)
