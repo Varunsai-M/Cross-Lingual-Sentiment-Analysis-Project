@@ -44,7 +44,7 @@ Training in the form of epochs:
 
 Summary of the results of all models employed are as follows:
 
-![Summary of res](https://user-images.githubusercontent.com/96068461/225303157-4c10f16b-a69c-499b-b323-6573805f4146.png)
+![updates res table](https://user-images.githubusercontent.com/96068461/232823529-693f672c-91a3-4826-a7e4-00a2e2776fe3.png)
 
 The results of the BERT model are as follows:
 
