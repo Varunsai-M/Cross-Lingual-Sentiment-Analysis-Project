@@ -54,24 +54,24 @@ The results of the ML models are as follows:
 
 1. SVC(Linear Kernel)
 
-![lin](https://user-images.githubusercontent.com/96068461/225308139-3f4fe093-c338-4db3-81f4-66d8f9f92758.png)
+![updated res lin](https://user-images.githubusercontent.com/96068461/232821996-40c82b4f-451c-4c21-a6fc-279f6404380c.png)
 
 2. SVC(RBF Kernel)
 
-![rbf](https://user-images.githubusercontent.com/96068461/225308149-11c148a5-f932-4be5-b2c4-3cfed52e2eb8.png)
+![updated res rbf](https://user-images.githubusercontent.com/96068461/232822015-43d4ca15-8c31-425a-aac1-5a3cfebb90c0.png)
 
 3. SVC(Sigmoid Kernel)
 
-![sig](https://user-images.githubusercontent.com/96068461/225308151-17c19383-5274-4568-8632-26b675ff8a8e.png)
+![updated res sigmoid](https://user-images.githubusercontent.com/96068461/232822021-88437722-ac15-46eb-8dd7-9485b1296204.png)
 
 4. SVC(Polynomial Kernel)
 
-![poly](https://user-images.githubusercontent.com/96068461/225308146-0ab360f7-7f04-4620-b93e-718bd44967f0.png)
+![updated res poly](https://user-images.githubusercontent.com/96068461/232822008-1d53ba4c-6348-4637-86b6-a9ab9fbd19fb.png)
 
 5. Decision Tree:
 
-![dt](https://user-images.githubusercontent.com/96068461/225308789-f0939ed6-d7ac-48d4-a47b-6cf8e55a8ceb.png)
+![updated res dec tree](https://user-images.githubusercontent.com/96068461/232822027-f064059e-a898-4338-afe2-d6018332fea4.png)
 
 6.Random Forest:
 
-![rf](https://user-images.githubusercontent.com/96068461/225308805-763f9559-9d64-4b3c-b60d-f9d4bec3ce5b.png)
+![updated res rand forest tree](https://user-images.githubusercontent.com/96068461/232822012-2066945b-8548-4d2d-bbf6-37355a4923fa.png)
